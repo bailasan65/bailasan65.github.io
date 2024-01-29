@@ -1,4 +1,4 @@
-# bailasan65.github.io
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm Bailasan Zakarneh, a passionate computer engineer with a diverse skill set ranging from mobile development to data analysis and data science. Here's a brief overview of what you'll find in this repository:
