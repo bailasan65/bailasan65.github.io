@@ -19,7 +19,7 @@ This project is an end-to-end solution for weather forecasting. It incorporates 
 - **Flask Backend**: The Flask framework is utilized to develop a robust backend system that serves the machine learning model via APIs.
 - **Machine Learning Model**: A machine learning model trained on historical weather data is integrated into the backend to provide accurate weather predictions.
 
-   ![Project repo](https://github.com/bailasan65/Time_Series_Project)
+   ![Project](https://drive.google.com/file/d/1ypK0YbOm3rNot0mZ20whJLuyCxhBAuBq/view?usp=sharing)
 
 
 ## Get in Touch
